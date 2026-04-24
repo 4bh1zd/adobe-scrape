@@ -1,5 +1,11 @@
 venv/
 __pycache__/
 *.py[cod]
-.env
 *.log
+.env
+chrome_profile/
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
+session.json
